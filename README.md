@@ -1,2 +1,2 @@
 # English-to-Hindi
-This applicationj translates English text to its Hindi equivalent
+This application translates English text to its Hindi equivalent
